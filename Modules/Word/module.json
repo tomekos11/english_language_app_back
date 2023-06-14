@@ -1,0 +1,11 @@
+{
+    "name": "Word",
+    "alias": "word",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Word\\Providers\\WordServiceProvider"
+    ],
+    "files": []
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Frontend",
+    "alias": "frontend",
+    "description": "",
+    "keywords": [],
+    "priority": 1,
+    "providers": [
+        "Modules\\Frontend\\Providers\\FrontendServiceProvider"
+    ],
+    "files": []
+}
